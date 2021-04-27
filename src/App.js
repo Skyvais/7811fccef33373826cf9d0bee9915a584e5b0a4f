@@ -1,39 +1,21 @@
-import logo from './logo.svg';
+import Logo from './sorrento_by_the_sea_logo.jpg'
 import './App.css';
-import {Text} from './component/Text'
-import {Button} from './component/Button'
-import {List} from './component/List'
+import {Header} from './component/Header'
 
-const items=[
-  {"name" : "banana" , "color": "yellow"},
-  {"name" : "apple" , "color": "green"},
-  {"name" : "mango" , "color": "blue"}
+const Navitems=[
+  {"name" : "Home" , "link": "/home"},
+  {"name" : "The Apartment" , "link": "/apartment"},
+  {"name" : "Pricing" , "link": "/pricing"},
+  {"name" : "Book" , "link": "/book"},
+  {"name" : "Local Area" , "link": "/local"},
+  {"name" : "Contact" , "link": "/contact"}
 ]
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          hello world 
-
-
-        </p>
-        <Text name="Barry" colour="red" />
-        <Text name="Larry" color="orange" />
-        <Text name="Jenny" color="blue"  />
-        <Button start={3} />
-        <Button start={100} />
-        <List items={items}/>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="website">
+      < Header logo={Logo} />
+    <main className="content"></main>
+    <footer className="footer"></footer>
     </div>
   );
 }
