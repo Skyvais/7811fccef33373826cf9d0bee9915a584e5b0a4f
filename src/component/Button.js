@@ -1,7 +1,7 @@
 import {useState} from 'react'
 export function Button ( props ) {
     // store number of clicks
-    const [click,setClick] = useState(0)
+    const [click,setClick] = useState(props.start)
     const update = () => {
         setClick(click+1)
     }
