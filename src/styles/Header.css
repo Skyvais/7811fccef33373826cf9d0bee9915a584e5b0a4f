@@ -1,0 +1,26 @@
+.header {
+    background-color: rgb(213, 122, 216);
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+
+}
+.logo {
+    width: 260px;
+
+}
+.navigation {
+    justify-self: end;
+    align-self: end;
+    display: flex;
+}
+.navigation a {
+    display: block;
+    padding: 9px;
+    text-decoration: none;
+    color: black;
+
+}
+.navigation a:hover {
+    color: white;
+    background-color: rgb(72, 87, 218);
+}
