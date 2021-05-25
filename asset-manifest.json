@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/css/main.2799a7ab.chunk.css",
+    "main.js": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/main.dc2f2e71.chunk.js",
+    "main.js.map": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/main.dc2f2e71.chunk.js.map",
+    "runtime-main.js": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/runtime-main.02f54e03.js",
+    "runtime-main.js.map": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/runtime-main.02f54e03.js.map",
+    "static/js/2.e3542459.chunk.js": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/2.e3542459.chunk.js",
+    "static/js/2.e3542459.chunk.js.map": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/2.e3542459.chunk.js.map",
+    "static/js/3.d442b707.chunk.js": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/3.d442b707.chunk.js",
+    "static/js/3.d442b707.chunk.js.map": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/3.d442b707.chunk.js.map",
+    "index.html": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/index.html",
+    "static/css/main.2799a7ab.chunk.css.map": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/css/main.2799a7ab.chunk.css.map",
+    "static/js/2.e3542459.chunk.js.LICENSE.txt": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/js/2.e3542459.chunk.js.LICENSE.txt",
+    "static/media/sorrento_by_the_sea_logo.da3aa440.jpg": "/7811fccef33373826cf9d0bee9915a584e5b0a4f/static/media/sorrento_by_the_sea_logo.da3aa440.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f54e03.js",
+    "static/js/2.e3542459.chunk.js",
+    "static/css/main.2799a7ab.chunk.css",
+    "static/js/main.dc2f2e71.chunk.js"
+  ]
+}
