@@ -14,7 +14,7 @@ export function Header ( props ) {
     } )
     return (
         <header className="header">
-        <img className="logo" src={props.logo} />
+        <img className="logo" src={props.logo} alt="small logo" />
         <nav className="navigation">
             {Navigation}
 
